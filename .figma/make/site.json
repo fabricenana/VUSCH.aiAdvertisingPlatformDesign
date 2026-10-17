@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage AI-generated advertising campaigns effortlessly, allowing users to promote their products through intuitive interactions and smart media recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
